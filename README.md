@@ -22,7 +22,7 @@ pod 'MZButtonExtension'
 
 ## Author
 
-Lynn Zhang, 984915412@qq.com
+Lynn Zhang, zmzchn@gamil.com
 
 ## License
 
