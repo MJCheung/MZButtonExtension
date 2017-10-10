@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MZButtonExtension_Example' do
+  pod 'MZButtonExtension', :path => '../'
+
+  target 'MZButtonExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
